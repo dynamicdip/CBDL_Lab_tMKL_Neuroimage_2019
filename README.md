@@ -1,5 +1,11 @@
 # tMKL
 Resting State Dynamics Meets Anatomical Structure:  Temporal Multiple Kernel Learning (tMKL) Model
+Please cite this article if you are using our script for your work. 
+https://www.sciencedirect.com/science/article/abs/pii/S1053811918318597
+
+Resting state dynamics meets anatomical structure: Temporal multiple kernel learning (tMKL) model
+Sriniwas Govinda Surampudia, Joyneel Misra, Gustavo Deco, Raju Surampudi Bapi,Avinash Sharma, Dipanjan Roy
+https://doi.org/10.1016/j.neuroimage.2018.09.054
 
 # Dependencies
 python3 [sklearn](http://scikit-learn.org/stable/install.html)
